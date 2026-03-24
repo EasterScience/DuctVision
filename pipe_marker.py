@@ -16,12 +16,10 @@ import re
 
 import cv2
 import numpy as np
-from dotenv import load_dotenv
 
 from pdf_renderer import render_pdf
 
 logger = logging.getLogger(__name__)
-load_dotenv()
 
 PIPE_BLUE = (255, 100, 0)  # BGR
 PIPE_THICKNESS = 22       # Uniform blue line width in pixels (at 300 DPI)

@@ -105,7 +105,7 @@ def main() -> None:
     parser.add_argument(
         "--ocr-engine",
         default="tesseract",
-        choices=["tesseract", "florence2"],
+        choices=["tesseract"],
         help="OCR backend (default: tesseract)",
     )
     parser.add_argument(

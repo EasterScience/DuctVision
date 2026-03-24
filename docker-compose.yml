@@ -6,6 +6,4 @@ services:
     volumes:
       - ./input:/app/input
       - ./output:/app/output
-    env_file:
-      - .env
     restart: unless-stopped
