@@ -1,0 +1,11 @@
+services:
+  ductvision:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./input:/app/input
+      - ./output:/app/output
+    env_file:
+      - .env
+    restart: unless-stopped
