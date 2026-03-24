@@ -1,0 +1,127 @@
+[
+  {
+    "label": "unlabeled",
+    "points": [[1620, 2160], [1620, 2400], [1800, 2400]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled", 
+    "points": [[1800, 2400], [1800, 2580], [2100, 2580]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[2100, 2580], [2100, 2760], [2400, 2760]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[2400, 2760], [2400, 3000], [2700, 3000]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[2700, 3000], [2700, 3180], [3000, 3180]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[3000, 3180], [3000, 3360], [3300, 3360]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[3300, 3360], [3300, 3540], [3600, 3540]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[3600, 3540], [3600, 3720], [3900, 3720]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[3900, 3720], [3900, 3900], [4200, 3900]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[4200, 3900], [4200, 4080], [4500, 4080]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[4500, 4080], [4500, 4260], [4800, 4260]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[4800, 4260], [4800, 4440], [5100, 4440]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[5100, 4440], [5100, 4620], [5400, 4620]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[5400, 4620], [5400, 4800], [5700, 4800]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[5700, 4800], [5700, 4980], [6000, 4980]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[6000, 4980], [6000, 5160], [6300, 5160]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[6300, 5160], [6300, 5340], [6600, 5340]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[6600, 5340], [6600, 5520], [6900, 5520]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[6900, 5520], [6900, 5700], [7200, 5700]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[7200, 5700], [7200, 5880], [7500, 5880]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[7500, 5880], [7500, 6060], [7800, 6060]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[7800, 6060], [7800, 6240], [8100, 6240]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[8100, 6240], [8100, 6420], [8400, 6420]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[8400, 6420], [8400, 6600], [8700, 6600]],
+    "type": "rectangular"
+  },
+  {
+    "label": "unlabeled",
+    "points": [[8700, 6600], [8700, 6780], [9000, 6780]],
+    "type": "rectangular"
+  }
+]

@@ -1,0 +1,268 @@
+{
+  "input_path": "input/testset2.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "ducts": [
+        {
+          "id": 1,
+          "polyline": [
+            [
+              3503,
+              3036
+            ],
+            [
+              3836,
+              2993
+            ]
+          ],
+          "shape": "round",
+          "dimension": null,
+          "pressure_class": "High Pressure",
+          "bounding_box": [
+            3498,
+            2988,
+            343,
+            53
+          ]
+        },
+        {
+          "id": 2,
+          "polyline": [
+            [
+              3209,
+              2133
+            ],
+            [
+              3176,
+              1952
+            ]
+          ],
+          "shape": "round",
+          "dimension": null,
+          "pressure_class": "High Pressure",
+          "bounding_box": [
+            3171,
+            1947,
+            43,
+            191
+          ]
+        },
+        {
+          "id": 3,
+          "polyline": [
+            [
+              3837,
+              2452
+            ],
+            [
+              3837,
+              2307
+            ]
+          ],
+          "shape": "round",
+          "dimension": null,
+          "pressure_class": "High Pressure",
+          "bounding_box": [
+            3832,
+            2302,
+            10,
+            155
+          ]
+        },
+        {
+          "id": 4,
+          "polyline": [
+            [
+              4198,
+              2696
+            ],
+            [
+              4198,
+              2569
+            ]
+          ],
+          "shape": "round",
+          "dimension": null,
+          "pressure_class": "High Pressure",
+          "bounding_box": [
+            4193,
+            2564,
+            10,
+            137
+          ]
+        },
+        {
+          "id": 5,
+          "polyline": [
+            [
+              3110,
+              2835
+            ],
+            [
+              1727,
+              2835
+            ]
+          ],
+          "shape": "round",
+          "dimension": null,
+          "pressure_class": "High Pressure",
+          "bounding_box": [
+            1722,
+            2830,
+            1393,
+            10
+          ]
+        },
+        {
+          "id": 6,
+          "polyline": [
+            [
+              3947,
+              2453
+            ],
+            [
+              3079,
+              2453
+            ]
+          ],
+          "shape": "round",
+          "dimension": null,
+          "pressure_class": "High Pressure",
+          "bounding_box": [
+            3074,
+            2448,
+            878,
+            10
+          ]
+        },
+        {
+          "id": 7,
+          "polyline": [
+            [
+              1853,
+              2945
+            ],
+            [
+              1829,
+              2248
+            ]
+          ],
+          "shape": "round",
+          "dimension": null,
+          "pressure_class": "High Pressure",
+          "bounding_box": [
+            1824,
+            2243,
+            34,
+            707
+          ]
+        },
+        {
+          "id": 8,
+          "polyline": [
+            [
+              2741,
+              2237
+            ],
+            [
+              3099,
+              2233
+            ]
+          ],
+          "shape": "round",
+          "dimension": null,
+          "pressure_class": "High Pressure",
+          "bounding_box": [
+            2736,
+            2228,
+            368,
+            14
+          ]
+        },
+        {
+          "id": 9,
+          "polyline": [
+            [
+              4772,
+              2848
+            ],
+            [
+              5024,
+              2842
+            ]
+          ],
+          "shape": "round",
+          "dimension": null,
+          "pressure_class": "Medium Pressure",
+          "bounding_box": [
+            4767,
+            2837,
+            262,
+            16
+          ]
+        }
+      ],
+      "scale": {
+        "raw_text": "1/4\"=1'-0\"",
+        "ratio": 0.020833333333333332,
+        "status": "found"
+      },
+      "notes": {
+        "general_notes": [
+          "PLAN NOTES",
+          "ao",
+          "Q*",
+          "2 1, ALL GREASE EXHAUST DUCTWORK SHALL BE DOUBLE-WALL FACTORY BUILT GREASE DUCT FOR USE WITH [1] 18% STANLESS STEEL DOUBLE WALL FACTORY BUILT GREASE DUCT INTO HOOD (2,800 CFM @ 1,584",
+          "eo TYPE | KITCHEN HOOD THAT CONFORMS TO THE REQUIREMENTS OF NFPA-96. PRODUCT SHALL BE ETL ISSUE DATE:",
+          "e FPM) ,",
+          "«= LISTED TO UL-1978 & UL-2221.",
+          "Mu",
+          "~< 2. ANY CHANGES MADE TO THE DESIGN IDENTIFIED ON THESE DRAWINGS AND/OR ASSOCIATED SPECIFICATIONS STAINLESS STEEL DOUBLE-WALL FACTORY BUILT GREASE DUCT. THE SLOPE OF THE HORIZONTAL DUCT",
+          "cy SHALL BE SUBMITTED TO THE ENGINEER/ARCHITECT OF RECORD FOR REVIEW AND APPROVAL PRIOR 10 SHALL NOT BE LESS THAN THE MANUFACTURER'S INSTALLATION INSTRUCTION (SLOPE SHALL BE 1/16\" —",
+          "ge MAKING ANY MODIFICATIONS TO THE PROJECT. ANY LABILITY AS A RESULT OF DESIGN MODIFICATIONS, AS PER LINEAR FOOT FOR HORIZONTAL DUCT RUN LESS THAN 75’, AND 3/16” PER LINEAR FOOT FOR",
+          "5-2) LL I ITH SUCH IFICATI ITHOUT TH I VAL ’ oF ' HORIZONTAL DUCT RUN MORE THAN 75: PER CAPTIVEAIRE DOUBLE WALL GREASE EXHAUST AIR DUCT 90% REVIEW - 09/05/2025 § THE ENGINEER/ARCHITECT OF RECORD SHALL BECOME THE RESPONSIBILITY OF THE CONTRACTOR. INSTALLATION INSTRUCTION) TOWARD THE HOOD OR TOWARD THE APPROVED GREASE RESERVOIR, ee - 3. PROVIDE MANUAL VOLUME DAMPERS AT ALL BRANCH DUCTS. PROVIDE CABLE/ ELECTRONIC VOLUME a ee ede 5% DAMPERS AT ALL IN-ACCESSABLE CEILING LOCATIONS. / NORIDONTAL pares Doe AT EVERY 12-0 0.C. AND AT EACH CHANGE OF DIRECTION FOR ALL > . oo 86 4. DUCT DIMENSIONS ON PLAN ARE SHEET METAL SIZE. sf 180 STAINLESS STEEL DOUBLE WALL FACTORY BUILT GREASE DUCT UP TO ROOF (2,800 CFM @ 1,584 __§— oe 5. ALL CEILING DIFFUSER AND RETURN AIR REGISTER CEILING BOXES SHALL BE OF SUFFICIENT HEIGHT TO FPM) - SEE M3.0 FOR CONTINUATION = LENUMS WH IRECTLY INS. SUCH CEILING BOX *. VERTICAL PLENUMS SHALL BE LINED W/ 1” THICK NFBU RATED DUCT LINER WITH FLAT BLACK FACING. SUPPLY AND RETURN AIR DUCT AND UP TO RTU-1 - SEE M3.0 FOR CONTINUATION. 3 CONNECTION TO SIDEWALL SUPPLY REGISTERS SHALL BE MADE WITH FULL SIZE HORIZONTAL PLENUM at EXTENSIONS FROM MAIN SUPPLY DUCT, LINED OR WRAPPED AT CONTRACTORS OPTION [6 | SUPPLY AND RETURN AIR DUCT AND UP TO DOAS-1 - SEE M3.0 FOR CONTINUATION. OO c J 3e 6. CONTRACTOR TO PROVIDE ALL CONTROL ACCESSORIES AND COORDINATE WITH ALL TRADES AND PROVIDE 4° RESTROOM EXHAUST AIR DUCT UP TO ROOF TERMINATE WITH FACTORY ROOF CAP (80 CFM) - SEE 2a MINIMUM CLEARANCE FOR ALL EQUIPMENT. M3.0 FOR CONTINUATION xy . . =n SS 7, CONTRACTOR TO VERIFY ALL EXISTING CONDITIONS BEFORE START OF ANY WORK. NO DUCTS AND PIPING TO RUN ABOVE ELECTRICAL PANELS AND TRANSFORMERS PER NEC a 8. CONTRACTOR TO PROVIDE NECESSARY CONTROL DEVICES TO ENSURE THE SYSTEM FUNCTIONS PROPERLY. REQUIREMENTS, SEE CONSTRICTION NOTE #42 ON M1.0. MECHANICAL Se 1% 9. FACTORY BUILT GREASE DUCT SHALL BE PROVIDED BY KEC AND INSTALLED BY MECHANICAL CONTRACTOR. [9] PROVIDE REMOTE TEST INDICATORS (RTI) FOR SMOKE DETECTOR NEXT TO ITS THERMOSTAT. LABEL o CLEARLY MATCHING THE UNIT ITS BEING SERVED. FLOOR PLAN Se 10. IF EXISTING DUCTWORK IS REUSED, CONTRACTOR SHALL INCLUDE PRICING TO PROFESSIONALLY CLEAN THE gs DUCT SYSTEM AS PART OF THEIR BASE BID. THERMOSTAT SHALL BE HONEYWELL 110+. THERMOSTAT SHALL BE PRE-SET AT 72°F AND THE AC SHALL 28 11. HOOD HAS MINIMUM OF 6\" OVERHANG ALL AROUND COOKING EQUIPMENT. OPERATE FROM 10AM TO 12AM. PROVIDE WITH CLEAR PLASTIC THERMOSTAT COVER. I 38 12. PROVIDE CLEAR THERMOSTAT LOCKABLE BOX. [11] ALL EXPOSED DUCT IN DINING AREA SHALL BE PAINTED PER ARCHITECTURE DRAWINGS. $a 13. REMOTE TEST INDICATORS (RTI) FOR SMOKE DETECTOR. LABEL CLEARLY MATCHING THE UNIT ITS BEING M2 . 0 23 SERVED NEXT TO ITS THERMOSTAT. jv” ge DATE OF PRINTING - 9/23/2025 aAQ"
+        ],
+        "plan_notes": [
+          "ao",
+          "Q*",
+          "2 1, ALL GREASE EXHAUST DUCTWORK SHALL BE DOUBLE-WALL FACTORY BUILT GREASE DUCT FOR USE WITH [1] 18% STANLESS STEEL DOUBLE WALL FACTORY BUILT GREASE DUCT INTO HOOD (2,800 CFM @ 1,584",
+          "eo TYPE | KITCHEN HOOD THAT CONFORMS TO THE REQUIREMENTS OF NFPA-96. PRODUCT SHALL BE ETL ISSUE DATE:",
+          "e FPM) ,",
+          "«= LISTED TO UL-1978 & UL-2221.",
+          "Mu",
+          "~< 2. ANY CHANGES MADE TO THE DESIGN IDENTIFIED ON THESE DRAWINGS AND/OR ASSOCIATED SPECIFICATIONS STAINLESS STEEL DOUBLE-WALL FACTORY BUILT GREASE DUCT. THE SLOPE OF THE HORIZONTAL DUCT",
+          "cy SHALL BE SUBMITTED TO THE ENGINEER/ARCHITECT OF RECORD FOR REVIEW AND APPROVAL PRIOR 10 SHALL NOT BE LESS THAN THE MANUFACTURER'S INSTALLATION INSTRUCTION (SLOPE SHALL BE 1/16\" —",
+          "ge MAKING ANY MODIFICATIONS TO THE PROJECT. ANY LABILITY AS A RESULT OF DESIGN MODIFICATIONS, AS PER LINEAR FOOT FOR HORIZONTAL DUCT RUN LESS THAN 75’, AND 3/16” PER LINEAR FOOT FOR",
+          "5-2) LL I ITH SUCH IFICATI ITHOUT TH I VAL ’ oF ' HORIZONTAL DUCT RUN MORE THAN 75: PER CAPTIVEAIRE DOUBLE WALL GREASE EXHAUST AIR DUCT 90% REVIEW - 09/05/2025 § THE ENGINEER/ARCHITECT OF RECORD SHALL BECOME THE RESPONSIBILITY OF THE CONTRACTOR. INSTALLATION INSTRUCTION) TOWARD THE HOOD OR TOWARD THE APPROVED GREASE RESERVOIR, ee - 3. PROVIDE MANUAL VOLUME DAMPERS AT ALL BRANCH DUCTS. PROVIDE CABLE/ ELECTRONIC VOLUME a ee ede 5% DAMPERS AT ALL IN-ACCESSABLE CEILING LOCATIONS. / NORIDONTAL pares Doe AT EVERY 12-0 0.C. AND AT EACH CHANGE OF DIRECTION FOR ALL > . oo 86 4. DUCT DIMENSIONS ON PLAN ARE SHEET METAL SIZE. sf 180 STAINLESS STEEL DOUBLE WALL FACTORY BUILT GREASE DUCT UP TO ROOF (2,800 CFM @ 1,584 __§— oe 5. ALL CEILING DIFFUSER AND RETURN AIR REGISTER CEILING BOXES SHALL BE OF SUFFICIENT HEIGHT TO FPM) - SEE M3.0 FOR CONTINUATION = LENUMS WH IRECTLY INS. SUCH CEILING BOX *. VERTICAL PLENUMS SHALL BE LINED W/ 1” THICK NFBU RATED DUCT LINER WITH FLAT BLACK FACING. SUPPLY AND RETURN AIR DUCT AND UP TO RTU-1 - SEE M3.0 FOR CONTINUATION. 3 CONNECTION TO SIDEWALL SUPPLY REGISTERS SHALL BE MADE WITH FULL SIZE HORIZONTAL PLENUM at EXTENSIONS FROM MAIN SUPPLY DUCT, LINED OR WRAPPED AT CONTRACTORS OPTION [6 | SUPPLY AND RETURN AIR DUCT AND UP TO DOAS-1 - SEE M3.0 FOR CONTINUATION. OO c J 3e 6. CONTRACTOR TO PROVIDE ALL CONTROL ACCESSORIES AND COORDINATE WITH ALL TRADES AND PROVIDE 4° RESTROOM EXHAUST AIR DUCT UP TO ROOF TERMINATE WITH FACTORY ROOF CAP (80 CFM) - SEE 2a MINIMUM CLEARANCE FOR ALL EQUIPMENT. M3.0 FOR CONTINUATION xy . . =n SS 7, CONTRACTOR TO VERIFY ALL EXISTING CONDITIONS BEFORE START OF ANY WORK. NO DUCTS AND PIPING TO RUN ABOVE ELECTRICAL PANELS AND TRANSFORMERS PER NEC a 8. CONTRACTOR TO PROVIDE NECESSARY CONTROL DEVICES TO ENSURE THE SYSTEM FUNCTIONS PROPERLY. REQUIREMENTS, SEE CONSTRICTION NOTE #42 ON M1.0. MECHANICAL Se 1% 9. FACTORY BUILT GREASE DUCT SHALL BE PROVIDED BY KEC AND INSTALLED BY MECHANICAL CONTRACTOR. [9] PROVIDE REMOTE TEST INDICATORS (RTI) FOR SMOKE DETECTOR NEXT TO ITS THERMOSTAT. LABEL o CLEARLY MATCHING THE UNIT ITS BEING SERVED. FLOOR PLAN Se 10. IF EXISTING DUCTWORK IS REUSED, CONTRACTOR SHALL INCLUDE PRICING TO PROFESSIONALLY CLEAN THE gs DUCT SYSTEM AS PART OF THEIR BASE BID. THERMOSTAT SHALL BE HONEYWELL 110+. THERMOSTAT SHALL BE PRE-SET AT 72°F AND THE AC SHALL 28 11. HOOD HAS MINIMUM OF 6\" OVERHANG ALL AROUND COOKING EQUIPMENT. OPERATE FROM 10AM TO 12AM. PROVIDE WITH CLEAR PLASTIC THERMOSTAT COVER. I 38 12. PROVIDE CLEAR THERMOSTAT LOCKABLE BOX. [11] ALL EXPOSED DUCT IN DINING AREA SHALL BE PAINTED PER ARCHITECTURE DRAWINGS. $a 13. REMOTE TEST INDICATORS (RTI) FOR SMOKE DETECTOR. LABEL CLEARLY MATCHING THE UNIT ITS BEING M2 . 0 23 SERVED NEXT TO ITS THERMOSTAT. jv” ge DATE OF PRINTING - 9/23/2025 aAQ"
+        ],
+        "duct_specifications": [
+          {
+            "duct_type": "all",
+            "size_range": null,
+            "pressure_class": "Unknown",
+            "material": "stainless steel",
+            "gauge": null,
+            "sealing_class": null
+          },
+          {
+            "duct_type": "all",
+            "size_range": null,
+            "pressure_class": "Unknown",
+            "material": "stainless steel",
+            "gauge": null,
+            "sealing_class": null
+          },
+          {
+            "duct_type": "all",
+            "size_range": null,
+            "pressure_class": "Unknown",
+            "material": "stainless steel",
+            "gauge": null,
+            "sealing_class": null
+          }
+        ]
+      }
+    }
+  ]
+}
